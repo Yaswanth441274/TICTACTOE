@@ -1,3 +1,5 @@
+#code written by Kavitha
+
 import random,sys,time
 n=[j for j in range(1,10)]
 board=[" "for i in range(9)]
